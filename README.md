@@ -1,4 +1,8 @@
-# Sample Snack app
+# CreaScribe
+
+We built the mobile application “CreaScribe” which can record observations to creatures along our daily life. In detail, the application allows uploading photos and records from a single user, and the user can see others records in Taiwan. We also provide search function which can help the user to learn more knowledge about a creature and to recognize the distribution of the creature in Taiwan. Moreover, we encourage users to understand roadkill datas and contribute on collecting these datas.
+
+# Within Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
 
